@@ -1,0 +1,20 @@
+version: 1
+name: Image Text Card
+description: Creating post with text and an image
+author: Squeak-Team <admin@squeak.com>
+squeakUsername: squeak
+placeholder_title: Title
+repository:
+  url: https://github.com/squeak-chat/image-text-card
+  version: main
+files:
+  html: source/index.html
+  css: source/styles.css
+  javascript: source/index.js
+parameters:
+  - name: description
+    type: textarea
+    placeholder: Image description
+  - name: image_name
+    type: image
+    placeholder: Upload an image...
