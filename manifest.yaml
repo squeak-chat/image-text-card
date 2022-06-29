@@ -4,6 +4,8 @@ description: Creating post with text and an image
 author: Squeak-Team <admin@squeak.com>
 squeakUsername: squeak
 placeholder_title: Title
+icon: icon.png
+preview: preview.png
 repository:
   url: https://github.com/squeak-chat/image-text-card
   version: main
