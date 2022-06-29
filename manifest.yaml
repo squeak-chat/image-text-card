@@ -7,7 +7,7 @@ placeholder_title: Title
 icon: icon.png
 preview: preview.png
 repository:
-  url: https://github.com/squeak-chat/image-text-card
+  url: https://github.com/squeak-chat/image-text-card.git
   version: main
 files:
   html: source/index.html
